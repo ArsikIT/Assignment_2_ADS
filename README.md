@@ -1,4 +1,4 @@
-# Custom Data Structures in Java
+# Asiignment_2_ADS by Arslan Zheksenbaev SE-2403
 
 ## ✅ Project Overview
 
@@ -6,7 +6,7 @@ This project implements custom versions of several core data structures in Java 
 
 ---
 
-## 📦 Implemented Structures
+## Implemented Structures
 
 ### 🔹 Interface: `MyList<T>`
 A generic interface that defines standard list operations:
@@ -54,18 +54,4 @@ Implements a binary min-heap:
 
 ---
 
-## 💻 How to Run
 
-### Requirements
-- Java 8 or above
-- IntelliJ IDEA or any Java IDE
-- Or compile via terminal
-
-### Run the program
-1. Compile all `.java` files
-2. Run `Main.java`
-3. Follow the console menu to interact with the data structures
-
-```bash
-javac *.java
-java Main
