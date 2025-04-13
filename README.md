@@ -1,4 +1,4 @@
-# Asiignment_2_ADS by Arslan Zheksenbaev SE-2403
+# Assignment_2_ADS by Arslan Zheksenbaev SE-2403
 
 ## ✅ Project Overview
 
